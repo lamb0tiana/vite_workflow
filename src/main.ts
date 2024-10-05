@@ -1,4 +1,5 @@
 import Drawflow from 'drawflow'
+import '@/styles/base.css'
 import 'drawflow/dist/drawflow.min.css'
 import {handleDrag} from "@/lib/functions";
 
